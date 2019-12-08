@@ -1,0 +1,93 @@
+Wed Dec  4 16:18:44 2019 - Starting data ingestion process
+Wed Dec  4 16:18:44 2019 - Day file not found. Starting data download
+Wed Dec  4 16:19:52 2019 - JSON File downloaded and saved. Time: 67.5 secs.
+Wed Dec  4 16:20:28 2019 - raw data file loaded. Time: 0.9 secs.
+Wed Dec  4 16:20:28 2019 - creating feature space
+Wed Dec  4 16:20:58 2019 - Feature space created. Time: 29.4 secs.
+Wed Dec  4 16:20:58 2019     - Total active users: 99
+Wed Dec  4 16:20:58 2019     - ACTIVITY data frame shape: (29479, 72)
+Wed Dec  4 16:20:58 2019     - SLEEP data frame shape: (28518, 95)
+Wed Dec  4 16:20:58 2019     - READINESS data frame shape: (29353, 11)
+Wed Dec  4 16:20:58 2019     - EXPERIMENTS data frame shape: (762, 5)
+Wed Dec  4 16:20:58 2019       - finished EXPERIMENTS count: 63
+Wed Dec  4 16:20:58 2019       - finished EXPERIMENTS user-days: 762
+Wed Dec  4 16:22:46 2019 - Starting data ingestion process
+Wed Dec  4 16:22:47 2019 - raw data file loaded. Time: 0.9 secs.
+Wed Dec  4 16:22:47 2019 - creating feature space
+Wed Dec  4 16:23:15 2019 - Feature space created. Time: 28.2 secs.
+Wed Dec  4 16:23:15 2019     - Total active users: 99
+Wed Dec  4 16:23:15 2019     - ACTIVITY data frame shape: (29479, 72)
+Wed Dec  4 16:23:15 2019     - SLEEP data frame shape: (28518, 95)
+Wed Dec  4 16:23:15 2019     - READINESS data frame shape: (29353, 11)
+Wed Dec  4 16:23:15 2019     - EXPERIMENTS data frame shape: (762, 5)
+Wed Dec  4 16:23:15 2019       - finished EXPERIMENTS count: 63
+Wed Dec  4 16:23:15 2019       - finished EXPERIMENTS user-days: 762
+Wed Dec  4 16:23:44 2019     - GOLD data frame shape: (28873, 275)
+Wed Dec  4 16:23:45 2019 - All data frames saved and zipped. Time: 30.4 secs.
+Wed Dec  4 16:23:45 2019 - Total time spent in the routine: 59.7 secs.
+Wed Dec  4 16:23:45 2019 ##### ----- DATA INGESTION ROUTINE FINALIZED ----- #####
+
+Wed Dec  4 16:28:58 2019 - Starting data ingestion process
+Wed Dec  4 16:28:59 2019 - raw data file loaded. Time: 1.0 secs.
+Wed Dec  4 16:28:59 2019 - creating feature space
+Wed Dec  4 16:29:27 2019 - Feature space created. Time: 28.2 secs.
+Wed Dec  4 16:29:27 2019     - Total active users: 99
+Wed Dec  4 16:29:27 2019     - ACTIVITY data frame shape: (29479, 72)
+Wed Dec  4 16:29:27 2019     - SLEEP data frame shape: (28518, 95)
+Wed Dec  4 16:29:27 2019     - READINESS data frame shape: (29353, 11)
+Wed Dec  4 16:29:27 2019     - EXPERIMENTS data frame shape: (762, 5)
+Wed Dec  4 16:29:27 2019       - finished EXPERIMENTS count: 63
+Wed Dec  4 16:29:27 2019       - finished EXPERIMENTS user-days: 762
+Wed Dec  4 16:29:57 2019     - GOLD data frame shape: (28873, 275)
+Wed Dec  4 16:29:59 2019 - All data frames saved and zipped. Time: 31.6 secs.
+Wed Dec  4 16:29:59 2019 - Total time spent in the routine: 61.0 secs.
+Wed Dec  4 16:29:59 2019 ##### ----- DATA INGESTION ROUTINE FINALIZED ----- #####
+
+Wed Dec  4 16:40:10 2019 - Starting data ingestion process
+Wed Dec  4 16:40:11 2019 - raw data file loaded. Time: 0.9 secs.
+Wed Dec  4 16:40:11 2019 - creating feature space
+Wed Dec  4 16:40:40 2019 - Feature space created. Time: 29.3 secs.
+Wed Dec  4 16:40:40 2019     - Total active users: 99
+Wed Dec  4 16:40:40 2019     - ACTIVITY data frame shape: (29479, 72)
+Wed Dec  4 16:40:40 2019     - SLEEP data frame shape: (28518, 95)
+Wed Dec  4 16:40:40 2019     - READINESS data frame shape: (29353, 11)
+Wed Dec  4 16:40:40 2019     - EXPERIMENTS data frame shape: (762, 5)
+Wed Dec  4 16:40:40 2019       - finished EXPERIMENTS count: 63
+Wed Dec  4 16:40:40 2019       - finished EXPERIMENTS user-days: 762
+Wed Dec  4 16:41:09 2019     - GOLD data frame shape: (28873, 275)
+Wed Dec  4 16:41:11 2019 - All data frames saved and zipped. Time: 30.8 secs.
+Wed Dec  4 16:41:11 2019 - Total time spent in the routine: 61.1 secs.
+Wed Dec  4 16:41:11 2019 ##### ----- DATA INGESTION ROUTINE FINALIZED ----- #####
+
+Wed Dec  4 16:46:54 2019 - Starting data ingestion process
+Wed Dec  4 16:46:55 2019 - raw data file loaded. Time: 0.9 secs.
+Wed Dec  4 16:46:55 2019 - creating feature space
+Wed Dec  4 16:47:23 2019 - Feature space created. Time: 28.0 secs.
+Wed Dec  4 16:47:23 2019     - Total active users: 99
+Wed Dec  4 16:47:23 2019     - ACTIVITY data frame shape: (29479, 72)
+Wed Dec  4 16:47:23 2019     - SLEEP data frame shape: (28518, 95)
+Wed Dec  4 16:47:23 2019     - READINESS data frame shape: (29353, 11)
+Wed Dec  4 16:47:23 2019     - EXPERIMENTS data frame shape: (762, 5)
+Wed Dec  4 16:47:23 2019       - finished EXPERIMENTS count: 63
+Wed Dec  4 16:47:23 2019       - finished EXPERIMENTS user-days: 762
+Wed Dec  4 16:47:53 2019     - GOLD data frame shape: (28873, 275)
+Wed Dec  4 16:47:54 2019 - All data frames saved and zipped. Time: 31.0 secs.
+Wed Dec  4 16:47:54 2019 - Total time spent in the routine: 60.1 secs.
+Wed Dec  4 16:47:54 2019 ##### ----- DATA INGESTION ROUTINE FINALIZED ----- #####
+
+Wed Dec  4 16:52:02 2019 - Starting data ingestion process
+Wed Dec  4 16:52:03 2019 - raw data file loaded. Time: 1.1 secs.
+Wed Dec  4 16:52:03 2019 - creating feature space
+Wed Dec  4 16:52:32 2019 - Feature space created. Time: 28.9 secs.
+Wed Dec  4 16:52:32 2019     - Total active users: 99
+Wed Dec  4 16:52:32 2019     - ACTIVITY data frame shape: (29479, 72)
+Wed Dec  4 16:52:32 2019     - SLEEP data frame shape: (28518, 95)
+Wed Dec  4 16:52:32 2019     - READINESS data frame shape: (29353, 11)
+Wed Dec  4 16:52:32 2019     - EXPERIMENTS data frame shape: (762, 5)
+Wed Dec  4 16:52:32 2019       - finished EXPERIMENTS count: 63
+Wed Dec  4 16:52:32 2019       - finished EXPERIMENTS user-days: 762
+Wed Dec  4 16:53:02 2019     - GOLD data frame shape: (28873, 275)
+Wed Dec  4 16:53:03 2019 - All data frames saved and zipped. Time: 31.3 secs.
+Wed Dec  4 16:53:03 2019 - Total time spent in the routine: 61.5 secs.
+Wed Dec  4 16:53:03 2019 ##### ----- DATA INGESTION ROUTINE FINALIZED ----- #####
+
