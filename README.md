@@ -6,7 +6,8 @@ Our [Project Homepage](http://people.ischool.berkeley.edu/~marcelo.queiroz/Zeez/
 1. Project Introduction
 2. Demo Site
 3. Detailed Notebooks
-4. Project Repo Link
+4. Repo Link & Presentation
+5. Technical Writeup
 
 ### Description:
 We are Zeez - a product that provides data-driven wellness recommendations for sleep improvement based on wearable telemetry, boosted by a rich community of N-of-1 experimentation conducted on the Memento Labs platform. We leverage the power of crowdsourced telemetry data from the Oura Ring, the best-in-class wearable for tracking sleep, activity, and physical readiness. We currently have tens of thousands of days-worth of data, connected in near-real-time, on a broad sample of wellness-minded people looking to improve their lives. Zeez is able to recommend a broad range of activities and lifestyle hacks - such as exercise timing, the best time to get into bed, whether or not to take a magnesium supplement, start a meditation habit, or wear blue-light-blocking glasses - with statistical significance, rigorous backtesting, and individualized precision.
