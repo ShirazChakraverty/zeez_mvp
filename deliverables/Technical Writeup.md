@@ -37,11 +37,11 @@ This recommender system is built by composing 4 components:
 
 Steps 1 through 3 are fairly routine; therefore, detailed review of the methodology is left as a [code-review exercise](https://github.com/ShirazChakraverty/zeez_mvp) to the reader. Key facts about the dataset are summarized here:
 
-![Key Training Facts](https://github.com/ShirazChakraverty/zeez_mvp/blob/master/figures/zeez_key_facts_training.png)
+![Key Training Facts](https://github.com/ShirazChakraverty/zeez_mvp/blob/master/deliverables/figures/zeez_key_facts_training.png)
 
 The Counterfactual prediction described in Step 4, however, requires more description. The mechanics are detailed in the following figure:
 
-![Zeez Counterfactual Recommendation Mechanics](https://github.com/ShirazChakraverty/zeez_mvp/blob/master/figures/zeez_counterfactual_mechanics.png)
+![Zeez Counterfactual Recommendation Mechanics](https://github.com/ShirazChakraverty/zeez_mvp/blob/master/deliverables/figures/zeez_counterfactual_mechanics.png)
 
   Where the set of recommendations is taken as those counterfactual perturbations that produced the largest increase in the predicted sleep score.
 
